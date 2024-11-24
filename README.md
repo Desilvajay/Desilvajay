@@ -7,6 +7,7 @@ This repository contains the business proposal for Ceylon Digital Lending Force,
 Highlights
 
 AI-Powered Credit Evaluation: Fully automated systems to reduce errors and improve accuracy in credit risk assessment.
+
 Focus on SMEs: Addressing the funding gap for small and medium enterprises in Sri Lanka.
 
 Innovative Loan Products: Includes educational loans, asset discounting facilities, and consumer loans.
@@ -15,9 +16,8 @@ Digital Transformation: Integration of AI and digital platforms for seamless cus
 
 Social Contribution: Enhancing financial inclusion and supporting economic growth through innovative funding solutions.
 
-Your Role
+My Role
 This project was conceptualized and developed by me, including:
-
 Creating the business model and operational framework.
 Designing AI integration for credit evaluations.
 Developing financial forecasts, strategies, and a comprehensive roadmap.
