@@ -8,8 +8,11 @@ Highlights
 
 AI-Powered Credit Evaluation: Fully automated systems to reduce errors and improve accuracy in credit risk assessment.
 Focus on SMEs: Addressing the funding gap for small and medium enterprises in Sri Lanka.
+
 Innovative Loan Products: Includes educational loans, asset discounting facilities, and consumer loans.
+
 Digital Transformation: Integration of AI and digital platforms for seamless customer experiences.
+
 Social Contribution: Enhancing financial inclusion and supporting economic growth through innovative funding solutions.
 
 Your Role
