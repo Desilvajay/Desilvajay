@@ -17,10 +17,14 @@ Digital Transformation: Integration of AI and digital platforms for seamless cus
 Social Contribution: Enhancing financial inclusion and supporting economic growth through innovative funding solutions.
 
 My Role
+
 This project was conceptualized and developed by me, including:
 Creating the business model and operational framework.
+
 Designing AI integration for credit evaluations.
+
 Developing financial forecasts, strategies, and a comprehensive roadmap.
+
 Authoring the proposal document to present the vision and execution plan.
 
 Download Link
